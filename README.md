@@ -1,29 +1,26 @@
-# README #
+## 🔥 Proyecto de blog
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+En este proyecto estaba aprendiendo sobre al framework [Laravel 6]( https://laravel.com/docs/6.x).
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## 📐 Temas relacionados
+* Arquitectura.
+* Instalación.
+* Configuración.
+* Sistema de rutas y tipo de rutas.
+* Controladores.
+* Validaciones.
+* Helpers principales.
+* Php artisan.
+* HTTP responses & requests.   
+* Sistema de autenticación y registro.
+* URL amigables con slugs.
 
-### What is this repository for? ###
+## 🗺 MER del proyecto
+![MER](public/image/MER.png)
+``` 
+	Este proyecto lo realice hace más o menos 2 años.
+```
+## License 🔥
+Copyright © 2019-present [Oscar Amado](https://github.com/ofaaoficial) 🧔
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
