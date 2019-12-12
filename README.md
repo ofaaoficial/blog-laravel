@@ -1,6 +1,6 @@
 ## 🔥 Proyecto de blog
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-En este proyecto estaba aprendiendo sobre al framework [Laravel 6]( https://laravel.com/docs/6.x).
+En este proyecto estaba aprendiendo sobre al framework [Laravel 6](https://laravel.com/docs/6.x).
 
 ## 📐 Temas relacionados
 * Arquitectura.
